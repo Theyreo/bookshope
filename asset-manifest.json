@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.eea30a63.css",
-    "main.js": "/static/js/main.3a7a50de.js",
+    "main.js": "/static/js/main.106b72fa.js",
     "static/media/mainImg.jpg": "/static/media/mainImg.ac83d289d18298bae163.jpg",
     "static/media/hereticsOfTheDuneTitle.webp": "/static/media/hereticsOfTheDuneTitle.323966aff32fbc1a09be.webp",
     "static/media/theBattleOfCorrine2.webp": "/static/media/theBattleOfCorrine2.07cb841911e9056f11a2.webp",
@@ -52,10 +52,10 @@
     "static/media/duneChapter1.webp": "/static/media/duneChapter1.d5d8366195867a8d0e46.webp",
     "index.html": "/index.html",
     "main.eea30a63.css.map": "/static/css/main.eea30a63.css.map",
-    "main.3a7a50de.js.map": "/static/js/main.3a7a50de.js.map"
+    "main.106b72fa.js.map": "/static/js/main.106b72fa.js.map"
   },
   "entrypoints": [
     "static/css/main.eea30a63.css",
-    "static/js/main.3a7a50de.js"
+    "static/js/main.106b72fa.js"
   ]
 }
